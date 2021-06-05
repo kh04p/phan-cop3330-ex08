@@ -1,10 +1,13 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Khoa Phan
+ */
 package org.cop3330;
 
 import java.util.Scanner;
 
 //program to take in number of people, number of pizzas and pizza slices to divide them evenly.
-public class App 
-{
+public class App {
     public static void main( String[] args )
     {
         Scanner input = new Scanner(System.in);
